@@ -1,0 +1,40 @@
+{
+  "response": {
+    "count": 41,
+    "items": [
+      {
+        "conversation": {
+          "peer": {
+            "id": 2001,
+            "type": "user"
+          },
+          "unread_count": 2
+        },
+        "last_message": {
+          "text": "Спасибо за участие!"
+        }
+      },
+      {
+        "conversation": {
+          "peer": {
+            "id": 2000000001,
+            "type": "chat"
+          },
+          "unread_count": 0
+        },
+        "last_message": {
+          "text": "Итоги конкурса"
+        }
+      },
+      {
+        "conversation": {
+          "peer": {
+            "id": -99,
+            "type": "group"
+          },
+          "unread_count": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "response": [
+    {
+      "id": 2001,
+      "first_name": "Иван",
+      "last_name": "Иванов",
+      "photo_100": "https://example.org/avatar.jpg"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+.git
+vendor
+.env
+.phpunit.cache
+coverage
